@@ -1,0 +1,24 @@
+{
+     "name": "js-cli",
+     "version": "1.0.0",
+     "description": "nodeJS introduction exercices",
+     "main": "#!/usr/bin/env index.js",
+     "scripts": {
+          "test": "echo \"Error: no test specified\" && exit 1",
+          "dev": "nodemon ./index.js"
+     },
+     "repository": {
+          "type": "git",
+          "url": "git+https://github.com/cheungkinwong/node-js-CLI.git"
+     },
+     "keywords": [],
+     "author": "Kin",
+     "license": "ISC",
+     "bugs": {
+          "url": "https://github.com/cheungkinwong/node-js-CLI/issues"
+     },
+     "homepage": "https://github.com/cheungkinwong/node-js-CLI#readme",
+     "dependencies": {
+          "axios": "^0.19.0"
+     }
+}
